@@ -1,0 +1,4 @@
+# Python deps for Linux version (no PyPI deps; uses ctypes)
+# System packages required:
+# - Debian/Ubuntu: libx11-6 libx11-dev libxss1 libxss-dev
+# - Fedora: libX11 libX11-devel libXScrnSaver libXScrnSaver-devel
