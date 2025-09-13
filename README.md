@@ -5,6 +5,7 @@ Linux:
 1. Install python 3.10.0.
 2. Download MouseWalkLinux folder.
 3. Install requirements from requirements.txt
+
 Debian/Ubuntu:
 ```bash
 sudo apt update
